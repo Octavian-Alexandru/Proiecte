@@ -1,0 +1,9 @@
+Am dezvoltat o aplicație de tip Calculator în linie de comandă utilizând C++ și Programare Orientată pe Obiecte (OOP). Aplicația suportă operații aritmetice de bază (adunare, scădere, înmulțire, împărțire) și include validări pentru input și gestionarea erorilor (precum împărțirea la zero). Proiectul demonstrează abilitățile mele de a lucra cu clase, funcții și manipulare de date în C++.
+
+Tehnologii: C++, OOP, STL (Standard Template Library)
+Repo GitHub: [link către repo, dacă ai unul]
+Realizări:
+
+Implementare eficientă a operațiilor aritmetice folosind clase și metode.
+Validarea input-ului și tratarea erorilor.
+Organizarea codului în fișiere separate (.cpp și .h).
